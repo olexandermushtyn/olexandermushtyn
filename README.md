@@ -47,13 +47,6 @@ When I'm not coding, you can find me exploring new tech videos on YouTube or Ins
 - ⚡ Fun fact: The scarier the task seems, the more likely I am to take it on  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
@@ -114,6 +107,3 @@ When I'm not coding, you can find me exploring new tech videos on YouTube or Ins
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
