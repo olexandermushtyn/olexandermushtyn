@@ -27,27 +27,10 @@ Here are some ideas to get you started:
 
 
 ### Nice to meet you!  
-Hi there! I'm Oleksandr, a 21-year-old full stack developer with over 3 years of experience. I specialize in JavaScript and TypeScript, and I'm proficient with React JS, React Native, NextJS, Node.js, and Express.
+Hi there! I'm Oleksandr, a full stack engineer with over 3 years of experience. I specialize in JavaScript and TypeScript, and I'm proficient with React JS, React Native, NextJS, Node.js, and Express.
 
 When I'm not coding, you can find me exploring new tech videos on YouTube or Instagram. Despite working long hours (10-12 hours a day), I'm committed to enhancing my well-being and productivity. Join me on my journey as I share projects and tools that help streamline workflows and foster continuous improvement.  
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Url shortener](https://github.com/olexandermushtyn/auth-service)  
-  
-
-- 🌱 I’m currently learning microserver architecture ang Golang  
-  
-
-- ⚡ Fun fact: The scarier the task seems, the more likely I am to take it on  
-
-
-</td></tr></table>  
 
 <br/>  
 
